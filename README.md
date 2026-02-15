@@ -30,6 +30,7 @@
   <img src="Images/img3.png" width="400" style="display: inline-block;">
 </p>
 
+---
 
 ## 🎮 How to Run
 
