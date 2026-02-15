@@ -34,10 +34,10 @@
 
 ## 🎮 How to Run
 
-1. Download or clone this repository
-2. Open the project in **NetBeans** (or any Java IDE that supports Swing)
-3. Compile & run the program
-4. Play the game by clicking on the buttons
+1. Download or clone this repository.
+2. Open the project in **NetBeans** (or any Java IDE that supports Swing).
+3. Compile & run the program.
+4. Play the game by clicking on the buttons.
 
 ---
 
