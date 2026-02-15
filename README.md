@@ -25,12 +25,9 @@
 ## 📸 Screenshots
 
 <p align="center">
-  <img src="Images/img1.png" width="400">
-</p>
-
-<p align="center">
-  <img src="Images/img2.png" width="400" style="display: inline-block; margin-right: 20px;">
-  <img src="Images/img3.png" width="400" style="display: inline-block; margin-left: 20px;">
+  <img src="Images/img1.png" width="400" style="display: inline-block;">
+  <img src="Images/img2.png" width="400" style="display: inline-block; margin: 0 20px;">
+  <img src="Images/img3.png" width="400" style="display: inline-block;">
 </p>
 
 
