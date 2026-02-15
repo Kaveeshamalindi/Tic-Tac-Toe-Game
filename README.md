@@ -1,6 +1,6 @@
 # ❌ ⭕ ❌ ⭕ Tic_Tac_Toe_Game ❌ ⭕ ❌ ⭕
 
-<p align="justify"> Implemented the Tic Tac Toe_Game by using the Java programming language. That fun graphical Tic-Tac-Toe game built using **Java Swing**, featuring X and 0 players, scoring, and game rules enforcement. </p>
+<p align="justify"> Implemented the Tic Tac Toe_Game by using the Java programming language. That fun graphical Tic-Tac-Toe game built using <B> Java Swing </B>, featuring X and 0 players, scoring, and game rules enforcement. </p>
 
 ---
 
